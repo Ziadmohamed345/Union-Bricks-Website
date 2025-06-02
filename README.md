@@ -11,6 +11,7 @@ A modern, responsive landing page for a construction materials company. It featu
 ## 📸 Screenshots
 
 ![Homepage](./Home.png) 
+![AboutUs](./AboutUs.png) 
 
 ---
 
